@@ -81,8 +81,6 @@ Lulusan **S1 Informatika** dengan passion dalam mengolah data dan membangun anta
 
 <p data-importer="text" align="left">Play games with Me 🙏😁</p>
 
----
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naufalhakim9/naufalhakim9/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naufalhakim9/naufalhakim9/pacman-output/pacman-contribution-graph.svg?game=pacman">
