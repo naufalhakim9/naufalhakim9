@@ -79,7 +79,9 @@ Lulusan **S1 Informatika** dengan passion dalam mengolah data dan membangun anta
   <img src="https://komarev.com/ghpvc/?username=naufalhakim9&color=007fff&style=flat&label=Profile+Views" alt="Profile Views" />
 </div>
 
-<p data-importer="text" align="left">Play games with Me 🙏😁</p>
+## Play games with Me 🙏😁
+
+--
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naufalhakim9/naufalhakim9/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
